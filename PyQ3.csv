@@ -1,0 +1,31 @@
+Name,Salary,Age,Function,Age_Bucketed,Function_Code,Outlier
+Employee_1,54895,49,HR,40-50 years,HR001,Not an Outlier
+Employee_2,38784,48,Sales,40-50 years,SAL002,Not an Outlier
+Employee_3,120000,34,Manager,30-40 years,MGR003,Outlier
+Employee_4,60309,33,Manager,30-40 years,MGR003,Not an Outlier
+Employee_5,46788,59,HR,>50 years,HR001,Not an Outlier
+Employee_6,50598,36,Sales,30-40 years,SAL002,Not an Outlier
+Employee_7,61915,34,Manager,30-40 years,MGR003,Not an Outlier
+Employee_8,50651,30,HR,30-40 years,HR001,Not an Outlier
+Employee_9,38155,36,Sales,30-40 years,SAL002,Not an Outlier
+Employee_10,55480,29,HR,20-30 years,HR001,Not an Outlier
+Employee_11,49396,29,Sales,20-30 years,SAL002,Not an Outlier
+Employee_12,64183,54,Developer,>50 years,DEV004,Not an Outlier
+Employee_13,38894,55,Developer,>50 years,DEV004,Not an Outlier
+Employee_14,46672,29,Sales,20-30 years,SAL002,Not an Outlier
+Employee_15,20000,53,HR,>50 years,HR001,Outlier
+Employee_16,57935,34,Sales,30-40 years,SAL002,Not an Outlier
+Employee_17,57055,23,Developer,20-30 years,DEV004,Not an Outlier
+Employee_18,44719,41,Developer,40-50 years,DEV004,Not an Outlier
+Employee_19,66267,58,HR,>50 years,HR001,Not an Outlier
+Employee_20,48339,41,Sales,40-50 years,SAL002,Not an Outlier
+Employee_21,44490,45,HR,40-50 years,HR001,Not an Outlier
+Employee_22,48817,22,Manager,20-30 years,MGR003,Not an Outlier
+Employee_23,39738,39,HR,30-40 years,HR001,Not an Outlier
+Employee_24,59433,47,Sales,40-50 years,SAL002,Not an Outlier
+Employee_25,80823,22,HR,20-30 years,HR001,Outlier
+Employee_26,80000,30,Sales,30-40 years,SAL002,Outlier
+Employee_27,52704,53,Sales,>50 years,SAL002,Not an Outlier
+Employee_28,54168,33,Developer,30-40 years,DEV004,Not an Outlier
+Employee_29,56569,23,Developer,20-30 years,DEV004,Not an Outlier
+Employee_30,45481,52,HR,>50 years,HR001,Not an Outlier
